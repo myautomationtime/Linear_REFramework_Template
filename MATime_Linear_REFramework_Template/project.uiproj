@@ -1,0 +1,6 @@
+{
+  "Name": "MATime_Linear_REFramework_Template",
+  "ProjectType": "Process",
+  "Description": "UiPath REFramework template for processing non-linear transaction data as a single linear transaction, simplifying transaction management, exception handling, retries, and workflow execution.",
+  "MainFile": "Main.xaml"
+}
